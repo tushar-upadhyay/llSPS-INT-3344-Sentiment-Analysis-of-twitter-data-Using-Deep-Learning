@@ -30,7 +30,7 @@ body{
 .title{
     padding-bottom:50px;
     display:flex;
-    color:black;
+    color:white;
     justify-content:center;
 }
 input[type=text]{
